@@ -1,6 +1,6 @@
 # redux-store
 
-This is a React redux car store application to get practice using to using Redux and the stripe to buy products from the store
+This is a React redux car application to get practice using Redux essentials
 
 In this activity, you will refactor an application that uses the Context API so that it handles state using the open source JavaScript library Redux.
 
